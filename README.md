@@ -48,6 +48,8 @@ I've used the launch,json from
     Run your app with the debugger and a popup will open a new tab to view your app served by  the codespaces (not by gh-pages).
 
 Turn off your codesapce when youre not developing !
+    https://github.com/codespaces
+    Thre dots near the name of your codesapace, and press STOP
 
 On android use Kiwi browser to inspect or debug if youre having problems with the final built app.
 
